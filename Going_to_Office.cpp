@@ -19,6 +19,7 @@ int main()
     b = Cb + (D * Cd) + (D / Cs) * Cm;
 
     if (a <= b) {
+        cout<<endl;
         cout << "Online Taxi" << endl;
     }
     else{
